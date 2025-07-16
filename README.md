@@ -9,9 +9,9 @@ Olá! Sou um desenvolvedor full stack com experiência prática em desenvolvimen
 
 ## 🧠 Sobre mim
 
-- 🎓 Graduando em Ciência da Computação (Centro Universitário do Distrito Federal - UDF)  
+- 🎓 Graduado em Ciência da Computação (Centro Universitário do Distrito Federal - UDF)  
 - 🔍 Perfil analítico, proativo e comprometido com resultados  
-- 💼 Experiência em suporte técnico e desenvolvimento de sistemas  
+- 💼 Experiência em desenvolvimento de sistemas  
 - 🚀 Foco em soluções que agregam valor real ao negócio  
 
 ---
