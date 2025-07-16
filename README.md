@@ -34,6 +34,14 @@ Olá! Sou um desenvolvedor full stack com experiência prática em desenvolvimen
 
 ## 📈 Experiência Profissional
 
+### 💼 Senado Federal — Ajudante Parlamentar Júnior (Desenvolvedor Front-End)  
+📅 Jul/2025 – Presente  
+🔹 Efetivado após atuação como estagiário na equipe técnica  
+🔹 Desenvolvimento contínuo da plataforma SIMPLS, com foco em front-end  
+🔹 Implementação de novas funcionalidades com Oracle APEX, JavaScript e HTML  
+🔹 Colaboração em tarefas de modelagem de dados e otimização de performance  
+🔹 Participação em testes e melhorias contínuas no sistema da Rede Legislativa Sustentável
+
 ### 💼 Senado Federal — Estagiário em Desenvolvimento de Sistemas  
 📅 Dez/2023 – Jun/2025  
 🔹 Desenvolvimento de sistemas com Oracle APEX, PL/SQL e JavaScript  
