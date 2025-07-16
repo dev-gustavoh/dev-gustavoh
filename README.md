@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohas/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dev-gustavoh)
 
-Olá! Sou um desenvolvedor full stack com experiência prática em desenvolvimento de sistemas institucionais e corporativos. Atuo atualmente no Senado Federal com foco em soluções Oracle APEX e monitoramento de dados da Rede Legislativo Sustentável.
+Olá! Sou um desenvolvedor front-end com experiência prática em desenvolvimento de sistemas institucionais e corporativos. Atuo atualmente no Senado Federal com foco em soluções Oracle APEX e monitoramento de dados da Rede Legislativo Sustentável.
 
 ---
 
