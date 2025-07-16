@@ -3,25 +3,30 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohas/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dev-gustavoh)
 
-Olá! Sou um desenvolvedor full stack com experiência prática em desenvolvimento de sistemas institucionais e corporativos. Atuo atualmente no Senado Federal com foco em soluções Oracle APEX e monitoramento de dados da Rede Legislativo Sustentável.
+Olá! Sou um desenvolvedor front-end com experiência prática em desenvolvimento de sistemas institucionais e corporativos. Atuo atualmente no Senado Federal com foco em soluções Oracle APEX e monitoramento de dados da Rede Legislativo Sustentável.
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🎓 Graduando em Ciência da Computação (Centro Universitário do Distrito Federal - UDF)
+- 🎓 Graduado em Ciência da Computação (Centro Universitário do Distrito Federal - UDF)
 - 🔍 Perfil analítico, proativo e comprometido com resultados
-- 💼 Experiência em suporte técnico e desenvolvimento de sistemas
+- 💼 Experiência em desenvolvimento de sistemas 
 - 🚀 Foco em soluções que agregam valor real ao negócio
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** JavaScript | PL/SQL | Python | SQL | HTML
-- **Frameworks e Ferramentas:** Oracle APEX | React | Git & GitHub
-- **Metodologias:** Scrum | Desenvolvimento Low-Code
-- **Banco de Dados:** Oracle
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?logo=oracle&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- ![Oracle](https://img.shields.io/badge/Oracle-FF0000?logo=oracle&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+- ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=agile&logoColor=white)
 
 ---
 
